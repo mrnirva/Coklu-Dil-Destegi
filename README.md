@@ -1,5 +1,5 @@
 # Coklu-Dil-Destegi
-Android Studio Çoklu Dil Desteği Ekleme
+Android Studio Çoklu Dil Desteği Eklemek
 
 https://harun.xyz/android/android-studio-coklu-dil-destegi-ekleme/
 
